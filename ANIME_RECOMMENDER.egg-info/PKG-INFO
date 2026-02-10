@@ -1,0 +1,15 @@
+Metadata-Version: 2.1
+Name: ANIME-RECOMMENDER
+Version: 0.1
+Author: Sarah
+Requires-Dist: langchain
+Requires-Dist: langchain-core
+Requires-Dist: langchain-community
+Requires-Dist: langchain-text-splitters
+Requires-Dist: langchain-huggingface
+Requires-Dist: langchain-groq
+Requires-Dist: chromadb
+Requires-Dist: sentence-transformers
+Requires-Dist: streamlit
+Requires-Dist: pandas
+Requires-Dist: python-dotenv
