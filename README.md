@@ -1,4 +1,4 @@
-# Anime Recommendation System — LLM + LLMOps
+# Anime Recommendation System - LLMOps
 
 This repository implements a **scalable anime recommendation system** that combines **Large Language Models (LLMs)** with modern **AI engineering (LLMOps)** practices to deliver AI-enhanced recommendations, vector search, and an end-to-end pipeline for ingesting and querying anime metadata.
 
@@ -66,7 +66,8 @@ This system ingests anime metadata and description text to power embeddings and 
 ---
 
 # Run Locally
-- Start backend API
+```bash
+# Start backend API
   
   python -m app.main
 
